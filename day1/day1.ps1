@@ -1,4 +1,4 @@
-$instructions = get-content .\input.txt
+$instructions = get-content .\day1\input.txt
 $dial = 50
 $score = 0
 $timeItsZero = 0
